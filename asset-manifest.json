@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Admin-Dashboard-Client/static/css/main.f1940cfe.css",
+    "main.js": "/Admin-Dashboard-Client/static/js/main.5d3bb025.js",
+    "index.html": "/Admin-Dashboard-Client/index.html",
+    "main.f1940cfe.css.map": "/Admin-Dashboard-Client/static/css/main.f1940cfe.css.map",
+    "main.5d3bb025.js.map": "/Admin-Dashboard-Client/static/js/main.5d3bb025.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1940cfe.css",
+    "static/js/main.5d3bb025.js"
+  ]
+}
