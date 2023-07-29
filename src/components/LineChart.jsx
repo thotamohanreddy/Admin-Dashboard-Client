@@ -15,7 +15,7 @@ const LineChart = ({ isCustomLineColors = false, isDashboard = false }) => {
 
   const fetchData = async () => {
       try {
-          const response = await axios.get(`/group?field=sector`);
+        const response = await axios.get(`https://admindashboardserver.onrender.com/group?field=sector`);
           console.log(response.data);
           setLineData(response.data);
       } catch (error) {
