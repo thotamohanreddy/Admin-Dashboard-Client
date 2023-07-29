@@ -23,7 +23,7 @@ function App() {
 
   const fetchData = async () => {
       try {
-          const response = await axios.get(`/filter`);
+          const response = await axios.get(`https://admindashboardserver.onrender.com/filter`);
           console.log(response.data);
           setUserData(response.data.data);
       } catch (error) {
